@@ -21,4 +21,5 @@ This project is a dynamic website that brings data to life using HTML, CSS, and 
 
 ![Screenshot 2023-11-21 at 3 27 49 PM](https://github.com/guerrerohazael/Portfolio-Website/assets/71238408/6e50dddc-ca8f-4509-afcb-ca13c0b36404)
 
-![Screenshot 2023-11-21 at 3 27 59 PM](https://github.com/guerrerohazael/Portfolio-Website/assets/71238408/c0a991f1-bea4-4692-8d39-67f87da4acfa)
+
+![Screenshot 2023-11-21 at 3 39 12 PM](https://github.com/guerrerohazael/Portfolio-Website/assets/71238408/abcfc6bb-5330-4d65-99e7-63089908cc49)
